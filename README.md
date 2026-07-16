@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/30094193/README.2.md)
+
 <h1 align="center">Hi 👋, I'm Alperen Aydınlık</h1>
 <h3 align="center">Third Grade Computer Engineering Student</h3>
 
